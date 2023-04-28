@@ -1,0 +1,7 @@
+combien de pays compte L’Union européenne,27,40,15,1
+quelle est la plus grande ville du monde,Tokyo (Japon),paris(france),Istanbul (Turquie),1
+quelle est la température normale du corps humain,entre 36,1° et 37,8°,entre 38° et 39°,entre 34° et 35°,1
+
+
+
+
